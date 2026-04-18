@@ -1,0 +1,6 @@
+O comando scp aluno.crt usuario@IP_DESTINO:/etc/ssl/certificates/ 
+é utilizado para copiar o arquivo de certificado aluno.crt de 
+forma segura para outro computador na rede, utilizando o 
+protocolo SSH. O arquivo é enviado para o 
+diretório /etc/ssl/certificates/, onde ficam armazenados 
+certificados digitais no sistema.

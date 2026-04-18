@@ -1,0 +1,5 @@
+O comando openssl req -new -key aluno.key -out aluno.csr é utilizado 
+para gerar uma requisição de assinatura de certificado (CSR) a 
+partir da chave privada aluno.key, salvando o resultado no arquivo 
+aluno.csr. Essa requisição é usada para solicitar a emissão de um 
+certificado digital.

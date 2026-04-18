@@ -1,0 +1,5 @@
+O comando openssl x509 -req -days 365 -in aluno.csr -signkey 
+aluno.key -out aluno.crt é utilizado para gerar 
+um certificado digital autoassinado, com validade de 365 dias, 
+utilizando a requisição aluno.csr e a chave privada aluno.key. 
+O certificado é salvo no arquivo aluno.crt.

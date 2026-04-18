@@ -1,0 +1,4 @@
+O comando python3 -m http.server 8443 --bind 0.0.0.0 é 
+utilizado para iniciar um servidor web simples utilizando 
+o Python, na porta 8443, permitindo acesso a partir de qualquer 
+endereço de rede.
